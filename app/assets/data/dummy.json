@@ -1,0 +1,12 @@
+{
+  "people": [
+    {
+      "name": "Tony Grove",
+      "position": "Director"
+    },
+    {
+      "name": "Evan Reed",
+      "position": "Project Lead"
+    }
+  ]
+}

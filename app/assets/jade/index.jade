@@ -1,0 +1,14 @@
+extends templates/_site
+
+block template-content
+  .l-wrap
+    h1 Hello World
+    p: +dummy(10)
+    a.o-button--outline(href="#") Button
+
+    ul
+    each instance in people
+      li
+        strong= instance.name
+        | , 
+        span= instance.position

@@ -1,0 +1,28 @@
+{
+  "toMove": [
+    "app/assets/fonts/*",
+    "!app/assets/**/*.html",
+    "app/**/*.html"
+  ],
+  "injectDev": {
+    "site": [
+      "bower_components/normalize-css/normalize.css",
+      "app/assets/css/style.css",
+      "app/assets/js/app.js"
+    ],
+    "vendor": [
+    ],
+    "guide": [
+    ]
+  },
+  "injectDist": {
+    "site": [
+      "dist/assets/css/style-min.css",
+      "dist/assets/js/site-min.js"
+    ],
+    "vendor": [
+    ],
+    "guide": [
+    ]
+  }
+}

@@ -17,6 +17,6 @@
   "devDependencies": {
     "normalize-css": "~3.0.2",
     "jquery": "~2.1.1",
-    "chj-framework": "~0.4.2"
+    "chj-framework": "~0.5.1"
   }
 }

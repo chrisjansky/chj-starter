@@ -13,6 +13,11 @@
     "vendor": [
     ],
     "guide": [
+      "app/assets/css/guide.css",
+      "bower_components/chj-framework/app/guide/public/prism.css",
+      "bower_components/chj-framework/app/guide/public/prism.js",
+      "bower_components/chj-framework/app/guide/public/guide.js",
+      "bower_components/chj-framework/app/assets/js/chj-toggle.js"
     ]
   },
   "injectDist": {
@@ -23,6 +28,8 @@
     "vendor": [
     ],
     "guide": [
+      "dist/assets/css/guide-min.css",
+      "dist/assets/js/guide-min.js"
     ]
   }
 }

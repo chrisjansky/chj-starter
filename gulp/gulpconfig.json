@@ -32,7 +32,7 @@
     "dataRoot": "app/assets/data/",
     "dataGlob": "app/assets/data/*.json",
 
-    "kssRoot": "app/assets/kss/",
+    "kssRoot": "bower_components/chj-framework/app/assets/kss/",
     "kssCss": "app/assets/css/guide.css"
   },
   "dist": {

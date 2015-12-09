@@ -6,7 +6,7 @@ require("./bower_components/chj-framework/gulp/tasks/templates.js");
 require("./bower_components/chj-framework/gulp/tasks/styles.js");
 require("./bower_components/chj-framework/gulp/tasks/watch.js");
 
-gulp.task("default", ["server", "watch"]);
+gulp.task("default", ["server:html", "watch"]);
 
 /* Advanced */
 require("./bower_components/chj-framework/gulp/tasks/guide.js");

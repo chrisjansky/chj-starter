@@ -2,9 +2,11 @@
   "dev": {
     "root": "app/",
     "styleguide": "app/guide/",
+    "proxy": "localhost/chj-starter/app/",
 
     "resources": "gulp/resources.json",
 
+    "pagesFormat": ".html",
     "pagesGlob": "app/**/*.html",
     "pagesIgnore": "!app/{assets,guide}/**/*.html",
 

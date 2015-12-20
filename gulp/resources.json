@@ -16,7 +16,8 @@
       "bower_components/chj-framework/app/guide/public/prism.css",
       "bower_components/chj-framework/app/guide/public/prism.js",
       "bower_components/chj-framework/app/guide/public/guide.js",
-      "bower_components/chj-framework/app/assets/js/chj-toggle.js"
+      "bower_components/chj-framework/app/assets/js/chj-toggle.js",
+      "bower_components/chj-framework/app/assets/js/chj-cycle.js"
     ]
   },
   "injectDist": {

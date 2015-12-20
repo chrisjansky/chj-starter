@@ -25,21 +25,18 @@
     "imagesGlob": "app/assets/images/**/*",
     "imagesIgnore": "!app/assets/images/_ignore{,/**}",
 
-    "svgSourceGlob": "app/assets/svg/_source/**/*",
+    "svgSourceGlob": "app/assets/svg/*",
     "svgBuild": "app/assets/svg/_build/",
     "svgBuildGlob": "app/assets/svg/_build/**/*",
-
-    "fallbacks": "app/assets/images/fallbacks/",
 
     "dataRoot": "app/assets/data/",
     "dataGlob": "app/assets/data/*.json",
 
-    "kssRoot": "bower_components/chj-framework/app/assets/kss/",
-    "kssCss": "app/assets/css/guide.css"
+    "kssRoot": "bower_components/chj-framework/app/assets/kss/"
   },
   "dist": {
     "root": "dist/",
-    "styleguide": "dist/guide"
+    "styleguide": "dist/guide/"
   },
   "ftp": {
     "host": "chrisjansky.cz",
